@@ -20,10 +20,6 @@ Passionate developer exploring the world of code and technology. Always eager to
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsirawan&layout=compact&theme=radical)
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gsirawan&theme=radical)
-
 
 ## 🤝 Connect with me
 
