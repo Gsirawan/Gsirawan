@@ -24,10 +24,6 @@ Passionate developer exploring the world of code and technology. Always eager to
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gsirawan&theme=radical)
 
-## 🌟 Featured Projects
-
-<!-- Add your best repositories here -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gsirawan&repo=your-repo-name&theme=radical)](https://github.com/Gsirawan/your-repo-name)
 
 ## 🤝 Connect with me
 
