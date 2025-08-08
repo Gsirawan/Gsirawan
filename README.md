@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Gsirawan&color=blue)
 
 ## 🚀 About Me
-Passionate developer exploring the world of code and technology. Always eager to learn new technologies and build amazing projects!
+Passionate developer exploring the world of code and technology. Always eager to learn new technologies and build interesting projects!
 
 ## 🛠️ Tech Stack
 
