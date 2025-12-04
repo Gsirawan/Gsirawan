@@ -16,9 +16,9 @@ Passionate developer exploring the world of code and technology. Always eager to
 
 ## 📊 GitHub Stats
 
-[![Gsirawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gsirawan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Gsirawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gsirawan&show_icons=true&theme=radical)]
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsirawan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsirawan&layout=compact&theme=radical)]
 
 
 
