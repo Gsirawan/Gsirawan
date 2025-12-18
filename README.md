@@ -4,6 +4,7 @@
 
 ## 🚀 About Me
 I code because I can't sit still. Because I don't trust black boxes. Because when I see a problem, I need to understand it and solve it myself.
+
 By day, I'm a Data Management Specialist. Meetings, strategy, stakeholder plans. It's cake - layered, decorated, the kind you serve at important occasions. People are impressed. 
 
 But at night, I'm in my terminal building things no one asked for. That's pancakes. Simple batter, hot pan, your own two hands. 
